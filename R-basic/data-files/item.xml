@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<document>
+  <row>
+    <NAME>Apple</NAME>
+    <PRICE>300</PRICE>
+  </row>
+  <row>
+    <NAME>Banana</NAME>
+    <PRICE>200</PRICE>
+  </row>
+  <row>
+    <NAME>Peach</NAME>
+    <PRICE>100</PRICE>
+  </row>
+</document>
